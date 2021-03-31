@@ -9,5 +9,5 @@ Hello	- Run as "./Hello" to return the line "Hello, world!" in the shell
 
 hello_world.asm	- Exercism's version
 
-two_fer.asm - Returns "One for X, one for me." based on input name.
+two_fer.asm - Returns "One for X, one for me." based on input name. Default X is "you".
 ```
