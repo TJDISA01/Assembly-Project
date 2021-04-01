@@ -10,4 +10,6 @@ Hello	- Run as "./Hello" to return the line "Hello, world!" in the shell
 hello_world.asm	- Exercism's version
 
 two_fer.asm - Returns "One for X, one for me." based on input name. Default X is "you".
+
+codewars_if_function.asm - My solution to "The 'if' function" on Codewars, "https://www.codewars.com/kata/54147087d5c2ebe4f1000805/train/nasm"
 ```
